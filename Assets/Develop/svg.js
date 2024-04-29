@@ -1,5 +1,6 @@
 const fs = require('fs');
 const readline = require('readline');
+const shapes = require('shapes');
 
 const rl = readline.createInterface({
   input: process.stdin,
