@@ -47,3 +47,7 @@ function generateSVG(text, textColor, shapeType, shapeColor) {
 }
 
 main();
+
+module.exports = {
+  shapes,
+};
